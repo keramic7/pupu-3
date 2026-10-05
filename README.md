@@ -1,4 +1,4 @@
-Практическая работа №3. Управляющие конструкции и операторы ветвления в C# (if, else if, else, switch).
+<img width="1912" height="1003" alt="image" src="https://github.com/user-attachments/assets/4d3a587c-fff8-4fd2-9265-caa47605212d" />Практическая работа №3. Управляющие конструкции и операторы ветвления в C# (if, else if, else, switch).
 
 Раздел 1. Базовые условия if и if-else
 
@@ -17,7 +17,6 @@ else
 {
     Console.WriteLine("Число отрицательное.");
 }
-break;
 
 №2
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/dbd2da38-38e4-4adc-a0ef-949b8fa798e0" />
@@ -34,7 +33,6 @@ else
 {
     Console.WriteLine("Число нечётное.");
 }
-break;
 
 №3
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/7e92fd5f-c4b0-44e0-a5aa-6bcb0d6b55b6" />
@@ -55,7 +53,6 @@ else
 {
     Console.WriteLine("2 число больше 1.");
 }
-break;
 
 №4
 <img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/2ceb556f-0502-43b7-96f7-eaa8c9f3b7f5" />
@@ -76,7 +73,6 @@ else
 {
     Console.WriteLine($"Наименьшее число - {a4}.");
 }
-break;
 
 №5
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ab72541-4a6a-42e0-9f60-9997546df49f" />
@@ -93,7 +89,6 @@ else
 {
     Console.WriteLine("Число не делится нацело на 5.");
 }
-break;
 
 №6
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/38847c41-cfb9-4f88-9d39-ade8011c13ae" />   
@@ -110,7 +105,6 @@ else
 {
     Console.WriteLine("Число не оканчивается 0.");
 }
-break;
 
 №7
 <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/ee7ea1eb-1901-45e1-ae1d-7d507cdea02d" />
@@ -127,7 +121,6 @@ else
 {
     Console.WriteLine("На улице мороз, наденьте шапку.");
 }
-break;
 
 №8
 <img width="1903" height="1000" alt="image" src="https://github.com/user-attachments/assets/4dddb2ab-905d-44ea-b5d4-f879d5ce200f" />
@@ -144,7 +137,6 @@ else
 {
     Console.WriteLine(a8 + 10);
 }
-break;
 
 №9
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/300bcce1-6656-48b9-ac2b-7dd3131269dc" />
@@ -162,7 +154,6 @@ else
 {
     Console.WriteLine($"Произведение чисел - {a9 * b9}");
 }
-break;
 
 №10
 <img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/6b9b131f-c253-4e14-b79f-c370c68d7a30" />
@@ -179,7 +170,6 @@ else
 {
     Console.WriteLine("доступ запрещён.");
 }
-break;
 
 №11
 <img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/a0f5baf4-8df0-491a-aa1d-75641fc0c841" />
@@ -196,7 +186,6 @@ else
 {
     Console.WriteLine("Нет.");
 }
-break;
 
 №12
 <img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/39e2b659-81ee-45b4-a5c0-97806fa2701f" />
@@ -213,7 +202,6 @@ else
 {
     Console.WriteLine("Число не делится на 3 без остатка.");
 }
-break;
 
 №13
 <img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/fd49fb27-c852-4897-9ec1-5d840f6054fe" />
@@ -230,7 +218,6 @@ else
 {
     Console.WriteLine("Точка левее 0 .");
 }
-break;
 
 №14
 <img width="1915" height="1006" alt="image" src="https://github.com/user-attachments/assets/8242b474-6264-4dc3-9053-d334a07ee65b" />
@@ -247,7 +234,6 @@ else
 {
     Console.WriteLine("Задолженность!");
 }
-break;
 
 №15
 <img width="1918" height="1004" alt="image" src="https://github.com/user-attachments/assets/1072830a-5094-4f68-9877-2e2dc3727b7d" />
@@ -264,7 +250,6 @@ else
 {
     Console.WriteLine("Неверный пароль.");
 }
-break;
 
 №16
 <img width="1918" height="1005" alt="image" src="https://github.com/user-attachments/assets/ba48c03b-a2bc-43ba-ad1b-e8c51f233ed9" />
@@ -281,7 +266,6 @@ else
 {
     Console.WriteLine("Число не отрицательное.");
 }
-break;
 
 №17
 <img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/e492cd27-c7a1-4b7b-823a-59e63de2487a" />
@@ -304,7 +288,6 @@ else
 {
     Console.WriteLine($"Разность: {b17 - a17}");
 }
-break;
 
 №18
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/6393decc-dc82-4461-8ef1-92fb7cd43fc5" />
@@ -321,7 +304,6 @@ else
 {
     Console.WriteLine($"Итоговая цена - {a18}.");
 }
-break;
 
 №19
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/e64a93c8-0c9b-43df-8d57-e367289fafdc" />
@@ -338,7 +320,6 @@ else
 {
     Console.WriteLine($"Число нечётное: {a19} * 3 = {a19 * 3}.");
 }
-break;
 
 №20
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/cb451631-cf19-4f1c-aca7-a8eb0b0904ae" />
@@ -355,7 +336,6 @@ else
 {
     Console.WriteLine("Всё хорошо.");
 }
-break;
 
 №21
 <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/3e499cf4-547b-4346-beee-01e2f0a2e507" />
@@ -372,7 +352,6 @@ else
 {
     Console.WriteLine("Число не равно 0.");
 }
-break;
 
 №22
 <img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/eede31ad-dcba-45e8-b832-cc20b0bb5584" />
@@ -390,10 +369,41 @@ else
 {
     Console.WriteLine("Числа не равны");
 }
-break;
 
 #23
+<img width="1912" height="1003" alt="image" src="https://github.com/user-attachments/assets/6ea2e2b5-f72a-4329-9fc8-974a49a94a60" />
+Console.WriteLine("Введите число $A$ и число $B$: ");
 
+double a23 = double.Parse(Console.ReadLine());
+double b23 = double.Parse(Console.ReadLine());
 
+if (a23 % b23 == 0)
+{
+    Console.WriteLine("Число $A$ делится без остатка на число $B$.");
+}
+
+else
+{
+    Console.WriteLine("Число $A$ не делится без остатка на число $B$.");
+}
+
+№24
+<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/297947b8-de59-4781-9e01-d6b2b9c442b6" />
+Console.WriteLine("Введите 2 угла треугольника: ");
+
+double a24 = double.Parse(Console.ReadLine());
+double b24 = double.Parse(Console.ReadLine());
+
+if (a24 + b24 <= 180)
+{
+    Console.WriteLine("Треугольник существует.");
+}
+
+else
+{
+    Console.WriteLine("Треугольник не существует.");
+}
+
+№25
 
 
