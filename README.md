@@ -96,6 +96,22 @@ break;
 №6
 
 
+        
+Console.WriteLine("Введите число: ");
+
+double a6 = double.Parse(Console.ReadLine());
+
+if (a6 % 10 == 0)
+{
+    Console.WriteLine("Число оканчивается на 0.");
+}
+
+else
+{
+    Console.WriteLine("Число не оканчивается 0.");
+}
+break;
+
 
 
 
