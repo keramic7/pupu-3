@@ -405,5 +405,22 @@ else
 }
 
 №25
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/666187ff-dc5c-414c-a106-76a78f995b0b" />
+Console.Write("Введите радиус круга и сторону квадрата: ");
 
+double a25 = double.Parse(Console.ReadLine());
+double b25 = double.Parse(Console.ReadLine());
+
+if(Math.PI * a25 * a25 > b25 * b25)
+{
+    Console.WriteLine("Площадь круга больше.");
+}
+
+else if(Math.PI * a25 * b25 < a25 * b25)
+{
+    Console.WriteLine("Площадь квадрата больше.");
+}
+
+else
+    Console.WriteLine("Площади равны.");
 
