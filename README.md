@@ -357,6 +357,43 @@ else
 }
 break;
 
+№21
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/3e499cf4-547b-4346-beee-01e2f0a2e507" />
+Console.WriteLine("Введите целое число: ");
+
+double a21 = double.Parse(Console.ReadLine());
+
+if (a21 == 0)
+{
+    Console.WriteLine("Число равно 0.");
+}
+
+else
+{
+    Console.WriteLine("Число не равно 0.");
+}
+break;
+
+№22
+<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/eede31ad-dcba-45e8-b832-cc20b0bb5584" />
+Console.WriteLine("Введите 2 вещественных числа: ");
+
+double a22 = double.Parse(Console.ReadLine());
+double b22 = double.Parse(Console.ReadLine());
+
+if (Math.Abs(a22 - b22) < 0.001)
+{
+    Console.WriteLine("Числа равны.");
+}
+
+else
+{
+    Console.WriteLine("Числа не равны");
+}
+break;
+
+#23
+
 
 
 
