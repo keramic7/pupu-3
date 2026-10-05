@@ -94,9 +94,7 @@ else
 break;
 
 №6
-
-
-        
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/38847c41-cfb9-4f88-9d39-ade8011c13ae" />   
 Console.WriteLine("Введите число: ");
 
 double a6 = double.Parse(Console.ReadLine());
@@ -111,6 +109,25 @@ else
     Console.WriteLine("Число не оканчивается 0.");
 }
 break;
+
+№7
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/ee7ea1eb-1901-45e1-ae1d-7d507cdea02d" />
+Console.WriteLine("Введите температуру воздуха: ");
+
+double a7 = double.Parse(Console.ReadLine());
+
+if (a7 > 0)
+{
+    Console.WriteLine("Всё норм.");
+}
+
+else
+{
+    Console.WriteLine("На улице мороз, наденьте шапку.");
+}
+break;
+
+№8
 
 
 
