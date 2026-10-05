@@ -1,4 +1,4 @@
-<img width="1912" height="1003" alt="image" src="https://github.com/user-attachments/assets/4d3a587c-fff8-4fd2-9265-caa47605212d" />Практическая работа №3. Управляющие конструкции и операторы ветвления в C# (if, else if, else, switch).
+Практическая работа №3. Управляющие конструкции и операторы ветвления в C# (if, else if, else, switch).
 
 Раздел 1. Базовые условия if и if-else
 
